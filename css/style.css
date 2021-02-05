@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+/*Header*/
+header {
+  background-color: rgb(56, 160, 224);
+  background-image: url(../img/pattern.png);
+  background-size: 250px;
+}
+
+#logo {
+  height: 40px;
+  margin-top: 30px;
+}
+/*Fine Header*/
+
+/*Main*/
+h1 {
+  font-size: 40px;
+  margin-top: 15px;
+  line-height: 35px;
+}
+.autore {
+  color: gray;
+  font-size: 15px;
+}
+
+.autore span {
+  color: lightseagreen;
+}
+
+.data {
+  color: gray;
+  font-size: 10px;
+  margin-bottom: 20px;
+}
+
+.infophoto {
+  font-size: 10px;
+}
+/*fine Main*/
