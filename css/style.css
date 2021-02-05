@@ -44,4 +44,54 @@ h1 {
 .infophoto {
   font-size: 10px;
 }
+
+.highlighted {
+  background-color: yellow;
+}
+
+.margin {
+  margin-top: 15px;
+}
+
+table {
+  border-spacing: 0;
+  margin-top: 15px;
+}
+thead {
+  background-color: rgb(2, 98, 136);
+  color: white;
+  text-align: left;
+}
+
+.text {
+  width: 50%;
+}
+
+.odd {
+  background-color: lightblue;
+}
 /*fine Main*/
+
+/*footer*/
+h3 {
+  color: grey;
+}
+
+.back-img {
+  color: white;
+  width: 300px;
+  height: 250px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.graph {
+  background-image: url(../img/graph.jpg);
+  background-size: cover;
+}
+
+.pc {
+  background-image: url(../img/monitor.jpg);
+  background-size: cover;
+}
+/*fine footer*/
