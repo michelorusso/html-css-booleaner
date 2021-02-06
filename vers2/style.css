@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+}
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.margin {
+  margin-top: 15px;
+}
+
+/*header*/
+header {
+  background-image: url(https://www.grp.vi.it/home/wp-content/uploads/2018/08/background-tecnology.png);
+  background-position: center;
+  padding: 30px;
+  border: 1px solid rgba(87, 145, 231, 0.623);
+}
+
+#logo {
+  height: 100px;
+}
+/*fine header*/
+
+/*main*/
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+.autore {
+  font-size: 15px;
+  color: gray;
+}
+
+.autore span {
+  color: lightseagreen;
+}
+
+.data {
+  color: gray;
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+
+.infophoto {
+  font-size: 12px;
+}
+
+.highlighted {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-decoration: underline red;
+}
+
+table {
+  margin-top: 15px;
+}
+
+thead {
+  background-color: lightslategray;
+  color: white;
+  text-align: left;
+}
+
+.text {
+  width: 50%;
+}
+
+.odd {
+  background-color: lightsteelblue;
+}
+/* fine main*/
+
+/*footer*/
+
+footer {
+  background-color: lightgray;
+}
+h3 {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.back-img {
+  padding: 10px;
+  color: white;
+  width: 300px;
+  height: 250px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.graph {
+  background-image: url(../img/graph.jpg);
+  background-size: cover;
+  display: inline-block;
+}
+
+.pc {
+  background-image: url(../img/monitor.jpg);
+  background-size: cover;
+  display: inline-block;
+}
+/* fine footer*/
